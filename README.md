@@ -1,5 +1,5 @@
 # Parking Occupancy Detection Using Convolutional Neural Networks
-**By:** Maria Isabel Arango Palacio, Isabella Montoya Henao, Jose Alejandro Villamizar, and María José Bernal Vélez
+**By:** Vinti Jingar
 
 
 ## Introduction
@@ -16,7 +16,7 @@ This repository contains the following files:
 ## Getting Started
 ### 1. Clone the repository
 ```
-git clone https://github.com/imontoyah/CNN-parking-detection.git
+git clone https://github.com/vintijingar/Parking-Slot-Occupancy-Detection-System.git
 cd CNN-parking-detection
 ```
 
